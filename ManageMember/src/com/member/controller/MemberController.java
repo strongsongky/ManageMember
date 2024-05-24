@@ -59,7 +59,7 @@ public class MemberController {
 
         memberList.add(member);
 
-        System.out.println("등록 완료되었습니다.");
+        System.out.println("등록이 완료되었습니다.");
         
     }
     
